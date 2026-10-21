@@ -28,7 +28,6 @@ The dashboard uses different visualizations to present sales-related information
 - What patterns can be identified from the available sales data?
 
 - ![Madhav E-commerce Store Power BI Dashboard](power%20bi%20dasboard.png)
-- 
 
 ## Key Insights
 _Add your actual findings from the completed dashboard here._
